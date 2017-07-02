@@ -1,0 +1,6 @@
+D:\KFKI\ExtendedMath\ExtendedMath\bin\Debug\ExtendedMath.exe.config
+D:\KFKI\ExtendedMath\ExtendedMath\bin\Debug\ExtendedMath.exe
+D:\KFKI\ExtendedMath\ExtendedMath\bin\Debug\ExtendedMath.pdb
+D:\KFKI\ExtendedMath\ExtendedMath\obj\Debug\ExtendedMath.csprojResolveAssemblyReference.cache
+D:\KFKI\ExtendedMath\ExtendedMath\obj\Debug\ExtendedMath.exe
+D:\KFKI\ExtendedMath\ExtendedMath\obj\Debug\ExtendedMath.pdb
