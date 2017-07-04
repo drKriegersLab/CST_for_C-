@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace simplifier
 {
     public class tests
@@ -265,6 +266,7 @@ namespace simplifier
             blockmanager.SystemStat();
         }
 #endif
+        
         public class test_swapper
         {
             static string tf01name = "tf01";

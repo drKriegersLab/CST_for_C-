@@ -1,6 +1,0 @@
-D:\KFKI\kacatos\kacatos\bin\Debug\kacatos.exe.config
-D:\KFKI\kacatos\kacatos\obj\Debug\kacatos.csprojResolveAssemblyReference.cache
-D:\KFKI\kacatos\kacatos\bin\Debug\kacatos.exe
-D:\KFKI\kacatos\kacatos\bin\Debug\kacatos.pdb
-D:\KFKI\kacatos\kacatos\obj\Debug\kacatos.exe
-D:\KFKI\kacatos\kacatos\obj\Debug\kacatos.pdb
